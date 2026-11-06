@@ -14,4 +14,6 @@ Open an issue or comment, and mention the agent account:
 @Pualll67 please fix <what you want>
 ```
 
-The agent reads the request, works in its own checkout, and replies in the same issue.
+The agent reads the request and works in its own checkout.
+
+The agent replies in the same issue it was asked in.
